@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hola me llamo Julian tengo muy buena predisposición para<br>trabajar en equipo e individualmente.<br>La educación en Digital Mind y Henry me permitió el desarrollo de<br>una actitud proactiva, que me facilita adquirir<br>conocimiento en un corto plazo y tener la<br>capacidad de analizar, comprender y resolver los<br>problemas que puedan presentarse.<br>Me apasiona todo el mundo de la programación desde muy joven, y eso conlleva a que me encante aprender cosas nuevas , abierto a cualquier lenguaje y lo mas importante es tengo muy buena concentración.
+# ¡Hola, soy Julian! 👋
+Cuento con  muy buena predisposición para<br>trabajar en equipo e individualmente.<br>La educación en Digital Mind y Henry me permitió el desarrollo de<br>una actitud proactiva, que me facilita adquirir<br>conocimiento en un corto plazo y tener la<br>capacidad de analizar, comprender y resolver los<br>problemas que puedan presentarse.<br>Me apasiona todo el mundo de la programación desde muy joven, y eso conlleva a que me encante aprender cosas nuevas , abierto a cualquier lenguaje y lo mas importante es tengo muy buena concentración.
 
 
 ## 🌐 Socials:
