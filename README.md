@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="1000" height="200" src="https://imgs.search.brave.com/I3TW3anU3_idcJXlaXz8f88ddJD93lIvTlIwWQKY8rg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZmFzdC10/eXBpbmctc3lzdGVt/LWNvZGluZy16MWl2/Nm1kaHExbHpieTY0/LmdpZg.gif"/>
+    <img width="1000" height="200" src="https://imgs.search.brave.com/Ar20HqQ7PX6UVSXRaeBWUF5VTX3jBKUW6aSQld3Hf9U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZG9jdW1l/bnQtZnVuY3Rpb24t/Y29kaW5nLTd5bTVi/bXpwZDZ0YjV3bjMu/Z2lm.gif"/>
 </div>
 
 # 💫 About Me:
