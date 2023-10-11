@@ -1,3 +1,7 @@
+<div align="center">
+    <img width="1000" src="https://imgs.search.brave.com/AMT2caOzg8E7A44yis_pbIUkoJTkpP1ApedvcKH38ms/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29tcHV0/ZXItc3lzdGVtLWNv/ZGluZy1qM3N6Zmp2/OWZ3YjVhdDl4Lmdp/Zg.gif"/>
+</div>
+
 # 💫 About Me:
 # ¡Hola, soy Julian! 👋
 Cuento con  muy buena predisposición para<br>trabajar en equipo e individualmente.<br>La educación en Digital Mind y Henry me permitió el desarrollo de<br>una actitud proactiva, que me facilita adquirir<br>conocimiento en un corto plazo y tener la<br>capacidad de analizar, comprender y resolver los<br>problemas que puedan presentarse.<br>Me apasiona todo el mundo de la programación desde muy joven, y eso conlleva a que me encante aprender cosas nuevas , abierto a cualquier lenguaje y lo mas importante es tengo muy buena concentración.
