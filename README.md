@@ -17,9 +17,6 @@ Cuento con  muy buena predisposición para<br>trabajar en equipo e individualmen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=00jas00&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=00jas00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=00jas00&icon=2&color=0)](https://visitcount.itsvg.in)
 
